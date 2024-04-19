@@ -11,7 +11,7 @@ weapon if you would like only one weapon.
 Detailed assembly instructions are on instructables: 
 https://www.instructables.com/id/Arduino-Fencing-Scoring-Apparatus/
 
-Email me if you have any questions: wesnew(at)gmail(dot)com
+Email me if you have any questions: vijaybharathslmfencing@gmail.com
 
 
 ## Directory Structure
