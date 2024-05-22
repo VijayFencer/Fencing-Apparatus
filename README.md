@@ -4,7 +4,7 @@
 ## Description
 
 Fencing Scoring Machine/Box/Apparatus code for the arduino platform.
-This project is an arduino based fencing scoring machine. It supports all 3
+This project is an arduino UNO based fencing scoring machine. It supports all 3
 weaspons, foil, epee and sabre. There are also individual sketched for each
 weapon if you would like only one weapon.Still sabre mode is in development and has some flaws
 
@@ -64,4 +64,5 @@ Sabre       50 %
  - Add some kind of screen
  - Serial to USB interface to use a laptop as the lights, timing and scoring,
    similar to the VSM. This is already implemented on the device, just write
-   some code for the PC side. 
+   some code for the PC side.
+ - Add different buzzer timings and sound for different functions
