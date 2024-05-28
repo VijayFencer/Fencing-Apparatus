@@ -172,7 +172,7 @@ void loop() {
       loopCount++;
       if ((micros()-now >= 1000000) && done == false) {
          Serial.print(loopCount);
-         Serial.println(" readings in 1 sec");
+         Serial.println(" readings in 1 secs");
          done = true;
       }
 #endif
