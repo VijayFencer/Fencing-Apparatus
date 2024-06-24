@@ -4,7 +4,7 @@ import tkMessageBox
 import serial
 import time
 import threading
-
+ 
 class MyTkApp(threading.Thread):
    def __init__(self):
       threading.Thread.__init__(self)
